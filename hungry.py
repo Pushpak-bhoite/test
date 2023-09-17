@@ -1,1 +1,5 @@
-print(" This is for testing of git commands ")
+hungry = input("are you hungry ?")
+if hungry == "yes":
+    print("eat samaso")
+else:
+    print("Dont Eat ")
